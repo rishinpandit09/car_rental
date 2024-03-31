@@ -1,0 +1,8 @@
+Car Name: Audi A3 or BMW 2 Series Gran Coupe or similar
+Car Type: Premium Special
+Max Passengers: 5
+Car Price per Day: $36
+Car Total Price: $139
+Vendor Name: National Car Rental
+Ratings 84% positive ratings
+Available at: carrentals
