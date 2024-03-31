@@ -37,7 +37,7 @@ public class Main {
     public static Map<String, Set<String>> invertedIndex = new HashMap<>();
     private static final String INDEX_FILE_PATH = "invertedIndex.txt";
     private static final String SEARCH_FREQUENCY_FILE = "search_frequency.txt";
-    static String path = "/Users/rishinpandit/Desktop/Projects/Car Rental Project/FinalProject 4/";
+    static String path = "path";
 
     public static void main(String[] args) throws UnsupportedEncodingException {
 
@@ -68,7 +68,7 @@ public class Main {
                 switch (userChoice) {
                     case 1:
 
-                        System.setProperty("webdriver.chrome.driver", "/Users/rishinpandit/Desktop/Projects/Car Rental Project/FinalProject 4/chromedriver-mac-x64/chromedriver");
+                        System.setProperty("webdriver.chrome.driver", "crome_path");
                         scanner = new Scanner(System.in);
 
                         String location = "";
