@@ -1,8 +1,8 @@
-Car Name: Cadillac Xt5 or similar
-Car Type: Premium Elite SUV
+Car Name: Hyundai Kona or similar
+Car Type: Compact SUV
 Max Passengers: 5
-Car Price per Day: $43
-Car Total Price: $166
+Car Price per Day: $35
+Car Total Price: $91
 Vendor Name: National Car Rental
 Ratings No Ratings
 Available at: expedia

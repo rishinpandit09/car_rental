@@ -1,8 +1,8 @@
-Car Name: Chevy Spark or similar
+Car Name: Chevrolet Spark or similar
 Car Type: Economy
 Max Passengers: 4
-Car Price per Day: $30
-Car Total Price: $116
-Vendor Name: National Car Rental
-Ratings 84% positive ratings
+Car Price per Day: $26
+Car Total Price: $69
+Vendor Name: Thrifty Car Rental
+Ratings 40% positive ratings
 Available at: carrentals

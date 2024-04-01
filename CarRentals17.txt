@@ -1,8 +1,8 @@
-Car Name: Chevrolet Colorado or similar
-Car Type: Standard Pickup Regular Cab
-Max Passengers: 4
-Car Price per Day: $33
-Car Total Price: $126
-Vendor Name: National Car Rental
-Ratings 84% positive ratings
+Car Name: Toyota Corolla or similar
+Car Type: Midsize
+Max Passengers: 5
+Car Price per Day: $29
+Car Total Price: $77
+Vendor Name: Dollar Rent A Car
+Ratings 58% positive ratings
 Available at: carrentals

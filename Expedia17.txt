@@ -1,8 +1,8 @@
-Car Name: Nissan Versa or similar
-Car Type: Compact
+Car Name: Ford Edge or similar
+Car Type: Standard SUV
 Max Passengers: 5
-Car Price per Day: $30
-Car Total Price: $116
-Vendor Name: National Car Rental
+Car Price per Day: $38
+Car Total Price: $113
+Vendor Name: Hertz
 Ratings No Ratings
 Available at: expedia

@@ -1,8 +1,8 @@
-Car Name: Audi A3 or BMW 2 Series Gran Coupe or similar
-Car Type: Premium Special
+Car Name: Kia Forte or similar
+Car Type: Midsize
 Max Passengers: 5
-Car Price per Day: $35
-Car Total Price: $135
+Car Price per Day: $31
+Car Total Price: $81
 Vendor Name: Enterprise
 Ratings 81% positive ratings
 Available at: carrentals

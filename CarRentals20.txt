@@ -1,8 +1,8 @@
-Car Name: Chevrolet Siverado 1500 Crew Cab or similar
-Car Type: Premium Pickup Regular Cab
+Car Name: Toyota Corolla Cross or similar
+Car Type: Compact SUV
 Max Passengers: 4
 Car Price per Day: $34
-Car Total Price: $131
-Vendor Name: National Car Rental
-Ratings 84% positive ratings
+Car Total Price: $79
+Vendor Name: Sixt
+Ratings 94% positive ratings
 Available at: carrentals

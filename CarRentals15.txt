@@ -1,8 +1,8 @@
-Car Name: Hyundai Kona or similar
+Car Name: Toyota Corolla Cross or similar
 Car Type: Compact SUV
-Max Passengers: 5
+Max Passengers: 4
 Car Price per Day: $32
-Car Total Price: $124
-Vendor Name: National Car Rental
-Ratings 84% positive ratings
+Car Total Price: $75
+Vendor Name: Sixt
+Ratings 94% positive ratings
 Available at: carrentals

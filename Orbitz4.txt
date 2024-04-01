@@ -1,8 +1,8 @@
-Car Name: Nissan Versa or similar
-Car Type: Compact
-Max Passengers: 5
-Car Price per Day: $30
-Car Total Price: $116
-Vendor Name: National Car Rental Rental Company
-Ratings 84% positive ratings
+Car Name: Chevrolet Spark or similar
+Car Type: Economy
+Max Passengers: 4
+Car Price per Day: $24
+Car Total Price: $65
+Vendor Name: Dollar Rent A Car Rental Company
+Ratings 58% positive ratings
 Available at: orbitz

@@ -1,8 +1,8 @@
-Car Name: Toyota Rav4 or similar
-Car Type: Midsize SUV
+Car Name: Toyota Corolla, Hyundai Elantra or similar
+Car Type: Midsize
 Max Passengers: 5
-Car Price per Day: $38
-Car Total Price: $148
-Vendor Name: Enterprise
+Car Price per Day: $25
+Car Total Price: $81
+Vendor Name: Hertz
 Ratings No Ratings
 Available at: expedia

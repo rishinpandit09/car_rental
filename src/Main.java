@@ -31,13 +31,20 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
 import java.net.URLEncoder;
-
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 public class Main {
     private static final Set<String> matches = new HashSet<>();
     public static Map<String, Set<String>> invertedIndex = new HashMap<>();
     private static final String INDEX_FILE_PATH = "invertedIndex.txt";
     private static final String SEARCH_FREQUENCY_FILE = "search_frequency.txt";
-    static String path = "path";
+    static String path = "/Users/rishinpandit/Desktop/Projects/Car Rental Project/FinalProject 4";
+    static String htmlPath = "";
 
     public static void main(String[] args) throws UnsupportedEncodingException {
 
@@ -59,7 +66,8 @@ public class Main {
             System.out.println("7. Search Frequency");
             System.out.println("8. Finding Patterns Using Regular Expressions");
             System.out.println("9. Find top 10 Cheapest Deals");
-            System.out.print("Enter your choice (1, 2, 3, 4, 5, 6, 7, 8 or 9): ");
+
+            System.out.print("Enter your choice (1, 2, 3, 4, 5, 6, 7, 8 or 9 ): ");
 
             if(scanner.hasNextInt()) {
                 int userChoice = scanner.nextInt();
@@ -68,7 +76,7 @@ public class Main {
                 switch (userChoice) {
                     case 1:
 
-                        System.setProperty("webdriver.chrome.driver", "crome_path");
+                        System.setProperty("webdriver.chrome.driver", "/Users/rishinpandit/Desktop/Projects/Car Rental Project/FinalProject 4/chromedriver-mac-x64/chromedriver");
                         scanner = new Scanner(System.in);
 
                         String location = "";
@@ -159,6 +167,7 @@ public class Main {
                         String carRentalsURL = String.format("https://www.carrentals.com/carsearch?locn=%s&date1=%s&date2=%s&",
                                 encodedLocation, startDate, endDate);
 
+
                         String expediaURL = String.format("https://www.expedia.com/carsearch?locn=%s&date1=%s&date2=%s",
                                 encodedLocation, startDate, endDate);
 
@@ -172,16 +181,22 @@ public class Main {
                         try {
                             // Example 1: carrentals.com
                             driver.get(carRentalsURL);
+                            CarRentalScraper carRentalScraper = new CarRentalScraper(carRentalsURL,"carRentalScraper.txt");
+                            carRentalScraper.saveData();
                             Thread.sleep(4000);
                             extractCarDetailsCarRentals(driver);
 
                             // Example 2: Expedia.com
                             driver.get(expediaURL);
+                            CarRentalScraper expediaScraper = new CarRentalScraper(expediaURL,"expediaScraper.txt");
+                            expediaScraper.saveData();
                             Thread.sleep(4000);
                             extractCarDetailsExpedia(driver);
 //             Example 3: Hotwire.com
 
                             driver.get(orbitzURL);
+                            CarRentalScraper orbitzScraper = new CarRentalScraper(orbitzURL,"orbitzScraper.txt");
+                            orbitzScraper.saveData();
                             Thread.sleep(4000);
                             extractCarDetailsOrbitz(driver);
 
@@ -1033,6 +1048,7 @@ public class Main {
         File indexFile = new File(INDEX_FILE_PATH);
         return indexFile.exists() && indexFile.isFile();
     }
+
     private static void extractCarDetailsCarRentals(WebDriver driver) {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         try {
