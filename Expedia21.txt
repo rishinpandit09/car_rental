@@ -1,8 +1,8 @@
-Car Name: Toyota Corolla or similar
-Car Type: Midsize
-Max Passengers: 5
-Car Price per Day: $27
-Car Total Price: $73
-Vendor Name: Dollar Rent A Car
+Car Name: Chevy Spark or similar
+Car Type: Economy
+Max Passengers: 4
+Car Price per Day: $30
+Car Total Price: $116
+Vendor Name: Enterprise
 Ratings No Ratings
 Available at: expedia

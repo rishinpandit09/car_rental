@@ -1,8 +1,8 @@
-Car Name: FORD ESCAPE or similar
-Car Type: Midsize SUV
-Max Passengers: 5
-Car Price per Day: $34
-Car Total Price: $79
-Vendor Name: Sixt
-Ratings 94% positive ratings
+Car Name: Chevrolet Colorado or similar
+Car Type: Standard Pickup Regular Cab
+Max Passengers: 4
+Car Price per Day: $33
+Car Total Price: $126
+Vendor Name: National Car Rental
+Ratings 84% positive ratings
 Available at: carrentals

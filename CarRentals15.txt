@@ -1,8 +1,8 @@
-Car Name: Toyota Corolla Cross or similar
-Car Type: Compact SUV
-Max Passengers: 4
+Car Name: Vw Jetta or similar
+Car Type: Standard
+Max Passengers: 5
 Car Price per Day: $32
-Car Total Price: $75
-Vendor Name: Sixt
-Ratings 94% positive ratings
+Car Total Price: $123
+Vendor Name: Enterprise
+Ratings 81% positive ratings
 Available at: carrentals

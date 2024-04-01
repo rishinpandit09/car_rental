@@ -1,8 +1,8 @@
-Car Name: Ford Edge or similar
-Car Type: Standard SUV
+Car Name: Toyota Rav4, Nissan Rogue, Ford Escape or similar
+Car Type: Midsize SUV
 Max Passengers: 5
-Car Price per Day: $38
-Car Total Price: $113
+Car Price per Day: $55
+Car Total Price: $231
 Vendor Name: Hertz
 Ratings No Ratings
 Available at: expedia

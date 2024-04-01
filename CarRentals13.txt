@@ -1,8 +1,8 @@
-Car Name: Kia Rio or similar
-Car Type: Compact
+Car Name: Hyundai Kona or similar
+Car Type: Compact SUV
 Max Passengers: 5
-Car Price per Day: $22
-Car Total Price: $73
-Vendor Name: Hertz
-Ratings 79% positive ratings
+Car Price per Day: $36
+Car Total Price: $122
+Vendor Name: Enterprise
+Ratings 83% positive ratings
 Available at: carrentals

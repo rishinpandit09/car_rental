@@ -1,8 +1,8 @@
-Car Name: Chevrolet Spark or similar
-Car Type: Economy
+Car Name: Chevrolet Colorado or similar
+Car Type: Standard Pickup Regular Cab
 Max Passengers: 4
-Car Price per Day: $22
-Car Total Price: $73
-Vendor Name: Hertz
-Ratings 79% positive ratings
+Car Price per Day: $31
+Car Total Price: $121
+Vendor Name: Enterprise
+Ratings 81% positive ratings
 Available at: carrentals

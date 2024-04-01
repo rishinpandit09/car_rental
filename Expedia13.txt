@@ -1,8 +1,8 @@
-Car Name: Kia Rio or similar
-Car Type: Compact
-Max Passengers: 5
-Car Price per Day: $24
-Car Total Price: $65
-Vendor Name: Dollar Rent A Car
+Car Name: Ford Expedition or similar
+Car Type: Fullsize SUV
+Max Passengers: 7
+Car Price per Day: $73
+Car Total Price: $282
+Vendor Name: Enterprise
 Ratings No Ratings
 Available at: expedia

@@ -1,8 +1,8 @@
-Car Name: Kia Rio or similar
-Car Type: Compact
-Max Passengers: 5
-Car Price per Day: $22
-Car Total Price: $73
-Vendor Name: Hertz Rental Company
-Ratings 79% positive ratings
+Car Name: Chevrolet Siverado 1500 Crew Cab or similar
+Car Type: Premium Pickup Regular Cab
+Max Passengers: 4
+Car Price per Day: $32
+Car Total Price: $126
+Vendor Name: Enterprise Rental Company
+Ratings 81% positive ratings
 Available at: orbitz

@@ -1,8 +1,8 @@
-Car Name: Managers Special or similar
-Car Type: Economy Special
+Car Name: Vw Jetta or similar
+Car Type: Standard
 Max Passengers: 5
-Car Price per Day: $22
-Car Total Price: $73
-Vendor Name: Hertz Rental Company
-Ratings 79% positive ratings
+Car Price per Day: $37
+Car Total Price: $128
+Vendor Name: Enterprise Rental Company
+Ratings 83% positive ratings
 Available at: orbitz

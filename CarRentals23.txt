@@ -1,8 +1,8 @@
-Car Name: Kia Forte or similar
-Car Type: Midsize
+Car Name: Toyota Camry or similar
+Car Type: Fullsize
 Max Passengers: 5
-Car Price per Day: $31
-Car Total Price: $81
+Car Price per Day: $33
+Car Total Price: $128
 Vendor Name: National Car Rental
 Ratings 84% positive ratings
 Available at: carrentals

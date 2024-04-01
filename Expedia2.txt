@@ -1,8 +1,8 @@
-Car Name: Toyota Rav4 or similar
-Car Type: Midsize SUV
+Car Name: Kia Forte or similar
+Car Type: Midsize
 Max Passengers: 5
-Car Price per Day: $42
-Car Total Price: $109
+Car Price per Day: $31
+Car Total Price: $119
 Vendor Name: Enterprise
 Ratings No Ratings
 Available at: expedia

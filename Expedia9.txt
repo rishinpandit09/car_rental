@@ -1,8 +1,8 @@
-Car Name: Ford Expedition or similar
-Car Type: Fullsize SUV
-Max Passengers: 7
-Car Price per Day: $78
-Car Total Price: $199
-Vendor Name: National Car Rental
+Car Name: Audi A4 or BMW 3 Series or similar
+Car Type: Luxury
+Max Passengers: 5
+Car Price per Day: $35
+Car Total Price: $137
+Vendor Name: Enterprise
 Ratings No Ratings
 Available at: expedia

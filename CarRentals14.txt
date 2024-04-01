@@ -1,8 +1,8 @@
-Car Name: Managers Special or similar
-Car Type: Economy Special
+Car Name: Kia Forte or similar
+Car Type: Midsize
 Max Passengers: 5
-Car Price per Day: $22
-Car Total Price: $73
-Vendor Name: Hertz
-Ratings 79% positive ratings
+Car Price per Day: $36
+Car Total Price: $123
+Vendor Name: Enterprise
+Ratings 83% positive ratings
 Available at: carrentals

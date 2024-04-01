@@ -1,8 +1,8 @@
-Car Name: Compact or larger - Vehicle determined upon pick-up
-Car Type: Special
+Car Name: Kia Forte or similar
+Car Type: Midsize
 Max Passengers: 5
-Car Price per Day: $28
-Car Total Price: $72
+Car Price per Day: $31
+Car Total Price: $119
 Vendor Name: Enterprise
 Ratings 81% positive ratings
 Available at: carrentals

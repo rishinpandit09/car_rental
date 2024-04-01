@@ -1,8 +1,8 @@
-Car Name: Ford Edge or similar
-Car Type: Standard SUV
-Max Passengers: 5
-Car Price per Day: $45
-Car Total Price: $115
-Vendor Name: National Car Rental
+Car Name: Chevrolet Siverado 1500 Crew Cab or similar
+Car Type: Premium Pickup Regular Cab
+Max Passengers: 4
+Car Price per Day: $32
+Car Total Price: $126
+Vendor Name: Enterprise
 Ratings No Ratings
 Available at: expedia

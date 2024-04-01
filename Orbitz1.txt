@@ -1,8 +1,8 @@
-Car Name: Chevrolet Spark or similar
-Car Type: Economy
-Max Passengers: 4
-Car Price per Day: $24
-Car Total Price: $65
-Vendor Name: Thrifty Car Rental Rental Company
-Ratings 40% positive ratings
+Car Name: Compact or larger - Vehicle determined upon pick-up
+Car Type: Special
+Max Passengers: 5
+Car Price per Day: $29
+Car Total Price: $114
+Vendor Name: Enterprise Rental Company
+Ratings 81% positive ratings
 Available at: orbitz

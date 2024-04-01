@@ -1,8 +1,8 @@
-Car Name: Toyota Rav4, Nissan Rogue, Ford Escape or similar
+Car Name: Toyota Rav4 or similar
 Car Type: Midsize SUV
 Max Passengers: 5
-Car Price per Day: $36
-Car Total Price: $109
-Vendor Name: Hertz
+Car Price per Day: $38
+Car Total Price: $148
+Vendor Name: Enterprise
 Ratings No Ratings
-Available at: expedia
+Available at: expediay

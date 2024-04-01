@@ -1,8 +1,8 @@
-Car Name: Kia Forte or similar
-Car Type: Midsize
+Car Name: Compact or larger - Vehicle determined upon pick-up
+Car Type: Special
 Max Passengers: 5
-Car Price per Day: $31
-Car Total Price: $81
+Car Price per Day: $29
+Car Total Price: $114
 Vendor Name: Enterprise
 Ratings No Ratings
 Available at: expedia
