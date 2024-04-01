@@ -1,8 +1,8 @@
-Car Name: Chevrolet Colorado or similar
-Car Type: Standard Pickup Regular Cab
-Max Passengers: 4
-Car Price per Day: $33
-Car Total Price: $126
-Vendor Name: National Car Rental Rental Company
-Ratings 84% positive ratings
+Car Name: Nissan Versa or similar
+Car Type: Compact
+Max Passengers: 5
+Car Price per Day: $28
+Car Total Price: $73
+Vendor Name: Enterprise Rental Company
+Ratings 81% positive ratings
 Available at: orbitz

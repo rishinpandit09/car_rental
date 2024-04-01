@@ -1,8 +1,8 @@
-Car Name: Kia Forte or similar
-Car Type: Midsize
+Car Name: Kia Rio or similar
+Car Type: Compact
 Max Passengers: 5
-Car Price per Day: $31
-Car Total Price: $119
-Vendor Name: National Car Rental Rental Company
-Ratings 84% positive ratings
+Car Price per Day: $26
+Car Total Price: $69
+Vendor Name: Dollar Rent A Car Rental Company
+Ratings 58% positive ratings
 Available at: orbitz

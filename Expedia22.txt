@@ -1,8 +1,8 @@
-Car Name: Chevy Spark or similar
-Car Type: Economy
-Max Passengers: 4
-Car Price per Day: $30
-Car Total Price: $116
-Vendor Name: National Car Rental
+Car Name: Compact or larger - Vehicle determined upon pick-up
+Car Type: Special
+Max Passengers: 5
+Car Price per Day: $28
+Car Total Price: $72
+Vendor Name: Enterprise
 Ratings No Ratings
 Available at: expedia

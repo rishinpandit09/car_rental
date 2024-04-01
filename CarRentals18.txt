@@ -1,8 +1,8 @@
-Car Name: Vw Jetta or similar
-Car Type: Standard
+Car Name: Toyota Corolla or similar
+Car Type: Midsize
 Max Passengers: 5
-Car Price per Day: $33
-Car Total Price: $128
-Vendor Name: National Car Rental
-Ratings 84% positive ratings
+Car Price per Day: $29
+Car Total Price: $77
+Vendor Name: Thrifty Car Rental
+Ratings 40% positive ratings
 Available at: carrentals

@@ -1,8 +1,8 @@
-Car Name: Kia Forte or similar
+Car Name: Toyota Corolla or similar
 Car Type: Midsize
 Max Passengers: 5
-Car Price per Day: $36
-Car Total Price: $123
-Vendor Name: Enterprise Rental Company
-Ratings 83% positive ratings
+Car Price per Day: $27
+Car Total Price: $73
+Vendor Name: Dollar Rent A Car Rental Company
+Ratings 58% positive ratings
 Available at: orbitz

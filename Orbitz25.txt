@@ -1,8 +1,8 @@
-Car Name: Audi A3 or BMW 2 Series Gran Coupe or similar
-Car Type: Premium Special
+Car Name: Toyota Yaris or similar
+Car Type: Economy
 Max Passengers: 5
-Car Price per Day: $36
-Car Total Price: $139
-Vendor Name: National Car Rental Rental Company
-Ratings 84% positive ratings
+Car Price per Day: $33
+Car Total Price: $76
+Vendor Name: Thrifty Car Rental Rental Company
+Ratings 37% positive ratings
 Available at: orbitz

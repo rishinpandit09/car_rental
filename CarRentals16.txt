@@ -1,8 +1,8 @@
-Car Name: Chevrolet Siverado 1500 Crew Cab or similar
-Car Type: Premium Pickup Regular Cab
-Max Passengers: 4
-Car Price per Day: $32
-Car Total Price: $126
-Vendor Name: Enterprise
-Ratings 81% positive ratings
+Car Name: Toyota Camry or similar
+Car Type: Fullsize
+Max Passengers: 5
+Car Price per Day: $33
+Car Total Price: $76
+Vendor Name: Sixt
+Ratings 94% positive ratings
 Available at: carrentals

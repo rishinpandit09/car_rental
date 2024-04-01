@@ -1,8 +1,8 @@
-Car Name: Nissan Maxima or similar
-Car Type: Premium
+Car Name: Toyota Corolla or similar
+Car Type: Midsize
 Max Passengers: 5
-Car Price per Day: $34
-Car Total Price: $132
-Vendor Name: Enterprise
+Car Price per Day: $27
+Car Total Price: $73
+Vendor Name: Dollar Rent A Car
 Ratings No Ratings
 Available at: expedia

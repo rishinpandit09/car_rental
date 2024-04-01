@@ -1,8 +1,8 @@
-Car Name: Nissan Maxima or similar
-Car Type: Premium
+Car Name: Toyota Camry or similar
+Car Type: Fullsize
 Max Passengers: 5
-Car Price per Day: $35
-Car Total Price: $137
-Vendor Name: National Car Rental Rental Company
-Ratings 84% positive ratings
+Car Price per Day: $33
+Car Total Price: $76
+Vendor Name: Sixt Rental Company
+Ratings 94% positive ratings
 Available at: orbitz

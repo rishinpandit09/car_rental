@@ -1,8 +1,8 @@
-Car Name: Audi A4 or BMW 3 Series or similar
-Car Type: Luxury
+Car Name: Ford Escape or similar
+Car Type: Midsize SUV
 Max Passengers: 5
-Car Price per Day: $37
-Car Total Price: $142
-Vendor Name: National Car Rental
+Car Price per Day: $56
+Car Total Price: $149
+Vendor Name: Budget
 Ratings No Ratings
 Available at: expedia

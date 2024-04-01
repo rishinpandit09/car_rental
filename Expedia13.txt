@@ -1,8 +1,8 @@
-Car Name: Chevy Spark or similar
-Car Type: Economy
-Max Passengers: 4
-Car Price per Day: $30
-Car Total Price: $116
-Vendor Name: Enterprise
+Car Name: Kia Rio or similar
+Car Type: Compact
+Max Passengers: 5
+Car Price per Day: $24
+Car Total Price: $65
+Vendor Name: Dollar Rent A Car
 Ratings No Ratings
 Available at: expedia

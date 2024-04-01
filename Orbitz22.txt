@@ -1,8 +1,8 @@
-Car Name: Audi A3 or BMW 2 Series Gran Coupe or similar
-Car Type: Premium Special
-Max Passengers: 5
-Car Price per Day: $35
-Car Total Price: $135
-Vendor Name: Enterprise Rental Company
-Ratings 81% positive ratings
+Car Name: Chevrolet Spark or similar
+Car Type: Economy
+Max Passengers: 4
+Car Price per Day: $33
+Car Total Price: $76
+Vendor Name: Thrifty Car Rental Rental Company
+Ratings 37% positive ratings
 Available at: orbitz

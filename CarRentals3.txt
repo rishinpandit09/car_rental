@@ -1,8 +1,8 @@
-Car Name: Chevy Spark or similar
+Car Name: Chevrolet Spark or similar
 Car Type: Economy
 Max Passengers: 4
-Car Price per Day: $30
-Car Total Price: $116
-Vendor Name: Enterprise
-Ratings 81% positive ratings
+Car Price per Day: $26
+Car Total Price: $69
+Vendor Name: Dollar Rent A Car
+Ratings 58% positive ratings
 Available at: carrentals

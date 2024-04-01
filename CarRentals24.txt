@@ -1,8 +1,8 @@
-Car Name: Nissan Maxima or similar
-Car Type: Premium
+Car Name: Toyota Corolla, Hyundai Elantra or similar
+Car Type: Midsize
 Max Passengers: 5
-Car Price per Day: $35
-Car Total Price: $137
-Vendor Name: National Car Rental
-Ratings 84% positive ratings
+Car Price per Day: $25
+Car Total Price: $81
+Vendor Name: Hertz
+Ratings 79% positive ratings
 Available at: carrentals

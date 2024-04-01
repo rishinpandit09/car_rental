@@ -1,8 +1,8 @@
-Car Name: Nissan Versa or similar
-Car Type: Compact
+Car Name: Toyota Rav4 or similar
+Car Type: Midsize SUV
 Max Passengers: 5
-Car Price per Day: $30
-Car Total Price: $116
-Vendor Name: Enterprise
+Car Price per Day: $37
+Car Total Price: $98
+Vendor Name: Dollar Rent A Car
 Ratings No Ratings
 Available at: expedia

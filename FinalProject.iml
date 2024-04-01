@@ -68,5 +68,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="webdrivermanager-5.7.0-fat" level="project" />
+    <orderEntry type="library" name="jsoup-1.17.2" level="project" />
   </component>
 </module>
